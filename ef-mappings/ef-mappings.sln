@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef-mappings", "ef-mappings\ef-mappings.csproj", "{6B1406F1-B0C4-4B5F-AEF3-36C4C6072FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef-mappings.Tests", "ef-mappings.Tests\ef-mappings.Tests.csproj", "{3B740E5E-2F88-41B3-A52E-1043B3F7F536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1406F1-B0C4-4B5F-AEF3-36C4C6072FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1406F1-B0C4-4B5F-AEF3-36C4C6072FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1406F1-B0C4-4B5F-AEF3-36C4C6072FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1406F1-B0C4-4B5F-AEF3-36C4C6072FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B740E5E-2F88-41B3-A52E-1043B3F7F536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B740E5E-2F88-41B3-A52E-1043B3F7F536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B740E5E-2F88-41B3-A52E-1043B3F7F536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B740E5E-2F88-41B3-A52E-1043B3F7F536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
