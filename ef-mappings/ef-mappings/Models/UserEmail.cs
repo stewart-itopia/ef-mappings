@@ -1,4 +1,4 @@
-namespace WebApplication2.Models
+namespace ef_mappings.Models
 {
     public class UserEmail
     {
